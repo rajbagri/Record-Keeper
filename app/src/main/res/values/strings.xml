@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">running</string>
+    <string name="cycling">cycling</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="running_image">Running image</string>
+    <string name="longest_ride">longest ride</string>
+    <string name="biggest_climb">Biggest Climb</string>
+    <string name="best_average_speed">Best Average Speed</string>
+</resources>
